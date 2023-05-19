@@ -5,7 +5,7 @@
       "category": "Marvel",
       "price": 19.99,
       "ratings": 4.5,
-      "image": "./Iron Man.png"
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41YiZh8CBTL.jpg"
     },
     {
       "id": 2,
@@ -13,7 +13,7 @@
       "category": "Marvel",
       "price": 24.99,
       "ratings": 4.8,
-      "image": "./Hulk.png"
+      "image": "https://cdn.marvel.com/content/1x/marvel-avengers-endgame-hulk-deluxe-6-inch-figure-oop.jpg"
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
       "category": "Marvel",
       "price": 14.99,
       "ratings": 4.3,
-      "image": "./Thanos.png"
+      "image": "https://static-01.daraz.com.bd/p/12a5868259a558decddd08fbd5d4a9e5.jpg"
     },
     {
       "id": 4,
@@ -29,7 +29,7 @@
       "category": "Disney",
       "price": 19,
       "ratings": 4.5,
-      "image": "./Car3.png"
+      "image": "https://cdn.shopify.com/s/files/1/0249/9910/0502/products/RCAR-D-MCQUEEN-00_1000x1000.jpg?v=1593150734"
     },
     {
       
@@ -38,7 +38,7 @@
       "category": "Disney",
       "price": 24.99,
       "ratings": 4.8,
-      "image": "./Car2.png"
+      "image": "https://w7.pngwing.com/pngs/315/792/png-transparent-blue-cars-coupe-clip-cart-cars-sally-carrera-lightning-mcqueen-doc-hudson-cartoon-car-cartoon-character-compact-car-car-accident.png"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "category": "Disney",
       "price": 14.99,
       "ratings": 4.3,
-      "image": "./Car1.png"
+      "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-1sjqwvx_173ad2cf.jpeg?region=0,0,600,600&width=480"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "category": "Regular",
       "price": 19,
       "ratings": 4.5,
-      "image": "./toy1.png"
+      "image": "https://rflbestbuy.com/images/detailed/42/2021-08-21___20210818_153757.jpg"
     },
     {
       
@@ -63,7 +63,7 @@
       "category": "Regular",
       "price": 24.99,
       "ratings": 4.8,
-      "image": "./toy2.png"
+      "image": "https://hamleysgumlet.gumlet.io/product/492407591/665/492407591.jpg"
     },
     {
       "id": 9,
@@ -71,7 +71,7 @@
       "category": "Regular",
       "price": 14.99,
       "ratings": 4.3,
-      "image": "./toy3.png"
+      "image": "https://media.istockphoto.com/id/536815915/photo/wooden-train.jpg?s=612x612&w=0&k=20&c=JBDJgTukqyLSXsFSKktjiWLJgy6vmFj_WoPx1s8sb9A="
     }
 
   ]
