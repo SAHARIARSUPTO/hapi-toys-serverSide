@@ -1,0 +1,77 @@
+[
+    {
+      "id": 1,
+      "toyName": "Iron Man Action Figure",
+      "category": "Marvel",
+      "price": 19.99,
+      "ratings": 4.5,
+      "image": "./Iron Man.png"
+    },
+    {
+      "id": 2,
+      "toyName": "Hulk",
+      "category": "Marvel",
+      "price": 24.99,
+      "ratings": 4.8,
+      "image": "./Hulk.png"
+    },
+    {
+      "id": 3,
+      "toyName": "Thanos",
+      "category": "Marvel",
+      "price": 14.99,
+      "ratings": 4.3,
+      "image": "./Thanos.png"
+    },
+    {
+      "id": 4,
+      "toyName": "Red Car",
+      "category": "Disney",
+      "price": 19,
+      "ratings": 4.5,
+      "image": "./Car3.png"
+    },
+    {
+      
+      "id": 5,
+      "toyName": "Red Truck",
+      "category": "Disney",
+      "price": 24.99,
+      "ratings": 4.8,
+      "image": "./Car2.png"
+    },
+    {
+      "id": 6,
+      "toyName": "Cab",
+      "category": "Disney",
+      "price": 14.99,
+      "ratings": 4.3,
+      "image": "./Car1.png"
+    },
+    {
+      "id": 7,
+      "toyName": "Car",
+      "category": "Regular",
+      "price": 19,
+      "ratings": 4.5,
+      "image": "./toy1.png"
+    },
+    {
+      
+      "id": 8,
+      "toyName": "Baby Train",
+      "category": "Regular",
+      "price": 24.99,
+      "ratings": 4.8,
+      "image": "./toy2.png"
+    },
+    {
+      "id": 9,
+      "toyName": "Train",
+      "category": "Regular",
+      "price": 14.99,
+      "ratings": 4.3,
+      "image": "./toy3.png"
+    }
+
+  ]
