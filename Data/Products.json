@@ -1,77 +1,92 @@
 [
-    {
-      "id": 1,
-      "toyName": "Iron Man Action Figure",
-      "category": "Marvel",
-      "price": 19.99,
-      "ratings": 4.5,
-      "image": "https://images-na.ssl-images-amazon.com/images/I/41YiZh8CBTL.jpg"
-    },
-    {
-      "id": 2,
-      "toyName": "Hulk",
-      "category": "Marvel",
-      "price": 24.99,
-      "ratings": 4.8,
-      "image": "https://cdn.marvel.com/content/1x/marvel-avengers-endgame-hulk-deluxe-6-inch-figure-oop.jpg"
-    },
-    {
-      "id": 3,
-      "toyName": "Thanos",
-      "category": "Marvel",
-      "price": 14.99,
-      "ratings": 4.3,
-      "image": "https://static-01.daraz.com.bd/p/12a5868259a558decddd08fbd5d4a9e5.jpg"
-    },
-    {
-      "id": 4,
-      "toyName": "Red Car",
-      "category": "Disney",
-      "price": 19,
-      "ratings": 4.5,
-      "image": "https://cdn.shopify.com/s/files/1/0249/9910/0502/products/RCAR-D-MCQUEEN-00_1000x1000.jpg?v=1593150734"
-    },
-    {
-      
-      "id": 5,
-      "toyName": "Red Truck",
-      "category": "Disney",
-      "price": 24.99,
-      "ratings": 4.8,
-      "image": "https://sc02.alicdn.com/kf/HTB1EhUvgfDH8KJjy1Xcq6ApdXXai.jpg"
-    },
-    {
-      "id": 6,
-      "toyName": "Cab",
-      "category": "Disney",
-      "price": 14.99,
-      "ratings": 4.3,
-      "image": "https://static-01.daraz.com.bd/p/b389c094363e3d7803178636573e8295.jpg"
-    },
-    {
-      "id": 7,
-      "toyName": "Car",
-      "category": "Regular",
-      "price": 19,
-      "ratings": 4.5,
-      "image": "https://rflbestbuy.com/images/detailed/42/2021-08-21___20210818_153757.jpg"
-    },
-    {
-      
-      "id": 8,
-      "toyName": "Baby Train",
-      "category": "Regular",
-      "price": 24.99,
-      "ratings": 4.8,
-      "image": "https://hamleysgumlet.gumlet.io/product/492407591/665/492407591.jpg"
-    },
-    {
-      "id": 9,
-      "toyName": "Train",
-      "category": "Regular",
-      "price": 14.99,
-      "ratings": 4.3,
-      "image": "https://media.istockphoto.com/id/536815915/photo/wooden-train.jpg?s=612x612&w=0&k=20&c=JBDJgTukqyLSXsFSKktjiWLJgy6vmFj_WoPx1s8sb9A="
-    }
-
-  ]
+  {
+    "id": 1,
+    "toyName": "Iron Man Action Figure",
+    "category": "Marvel",
+    "price": 19.99,
+    "ratings": 4.5,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41YiZh8CBTL.jpg",
+    "quantity": 10,
+    "sellerName": "Toy World"
+  },
+  {
+    "id": 2,
+    "toyName": "Hulk",
+    "category": "Marvel",
+    "price": 24.99,
+    "ratings": 4.8,
+    "image": "https://cdn.marvel.com/content/1x/marvel-avengers-endgame-hulk-deluxe-6-inch-figure-oop.jpg",
+    "quantity": 5,
+    "sellerName": "Marvel Store"
+  },
+  {
+    "id": 3,
+    "toyName": "Thanos",
+    "category": "Marvel",
+    "price": 14.99,
+    "ratings": 4.3,
+    "image": "https://static-01.daraz.com.bd/p/12a5868259a558decddd08fbd5d4a9e5.jpg",
+    "quantity": 8,
+    "sellerName": "Super Toys"
+  },
+  {
+    "id": 4,
+    "toyName": "Red Car",
+    "category": "Disney",
+    "price": 19,
+    "ratings": 4.5,
+    "image": "https://cdn.shopify.com/s/files/1/0249/9910/0502/products/RCAR-D-MCQUEEN-00_1000x1000.jpg?v=1593150734",
+    "quantity": 12,
+    "sellerName": "Disney Store"
+  },
+  {
+    "id": 5,
+    "toyName": "Red Truck",
+    "category": "Disney",
+    "price": 24.99,
+    "ratings": 4.8,
+    "image": "https://sc02.alicdn.com/kf/HTB1EhUvgfDH8KJjy1Xcq6ApdXXai.jpg",
+    "quantity": 3,
+    "sellerName": "ToyLand"
+  },
+  {
+    "id": 6,
+    "toyName": "Cab",
+    "category": "Disney",
+    "price": 14.99,
+    "ratings": 4.3,
+    "image": "https://static-01.daraz.com.bd/p/b389c094363e3d7803178636573e8295.jpg",
+    "quantity": 15,
+    "sellerName": "Toy Universe"
+  },
+  {
+    "id": 7,
+    "toyName": "Car",
+    "category": "Regular",
+    "price": 19,
+    "ratings": 4.5,
+    "image": "https://rflbestbuy.com/images/detailed/42/2021-08-21___20210818_153757.jpg",
+    "quantity": 20,
+    "sellerName": "Best Toys"
+  },
+  {
+    "id": 8,
+    "toyName": "Baby Train",
+    "category": "Regular",
+    "price": 24.99,
+    "ratings": 4.8,
+    "image": "https://hamleysgumlet.gumlet.io/product/492407591/665/492407591.jpg",
+    "quantity": 6,
+    "sellerName": "Kids World"
+  },
+  {
+    "id": 9,
+    "toyName": "Train",
+    "category": "Regular",
+    "price": 14.99,
+    "ratings": 4.3,
+    "image": "https://media.istockphoto.com/id/536815915/photo/wooden-train.jpg?s=612x612&w=0&k=20&c=JBDJgTukqyLSXsFSKktjiWLJgy6vmFj_WoPx1s8sb9A=",
+    "quantity": 10,
+    "sellerName": "Toy Emporium"
+  }
+]
