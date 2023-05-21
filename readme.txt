@@ -1,0 +1,1 @@
+${process.env.SECRET_NAME}:${process.env.SECRET_PASS}
